@@ -1,0 +1,22 @@
+ body {
+     background-image: url(https://printablegraphics.in/wp-content/uploads/2018/01/Html-background-image.jpg);
+ }
+ 
+ .buten {
+     display: inline;
+ }
+ 
+ .next:hover {
+     color: #06425B !important;
+     background-color: #A6CACC !important;
+     border-radius: 12px;
+     font-weight: bolder;
+     box-shadow: #8a9090 5px 5px 8px;
+     transition: ease-in-out 0.35s;
+ }
+ 
+ .buten:hover {
+     border-radius: 15px !important;
+     box-shadow: #8a9090 5px 5px 8px;
+     transition: ease-out 0.20s;
+ }
